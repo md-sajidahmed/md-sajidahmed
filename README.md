@@ -7,6 +7,7 @@ Front-End Web Developer with WordPress customization. My passion is to learn new
 
 Skills: 
 👉  HTML
+
 👉  CSS
 👉  Bootstrap
 👉  JavaScript
