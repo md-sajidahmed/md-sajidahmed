@@ -6,14 +6,21 @@
 Front-End Web Developer with WordPress customization. My passion is to learn new things, solve problems to make myself more skilled. I always love to face new Challenges.
 
 Skills: 
+
 👉  HTML
 
 👉  CSS
+
 👉  Bootstrap
+
 👉  JavaScript
+
 👉  ReactJs
+
 👉  jQuery
+
 👉  Document Object Model
+
 👉  WordPress Customization
 
 - 🌱 I’m currently learning React JS 
