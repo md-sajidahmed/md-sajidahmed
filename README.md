@@ -23,6 +23,8 @@ Skills:
 
 👉  WordPress Customization
 
+
+
 - 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate on Github 
 
