@@ -34,19 +34,6 @@ Front-End Web Developer with WordPress customization. My passion is to learn new
 
 <br>
 
-<!-- ### Skills: 
-
-👉  HTML / CSS / Bootstrap
-
-👉  JavaScript / DOM / ReactJs / jQuery  
-
-👉  WordPress Customization
-
-👉  Webpack Bundler -->
-
-<!-- [<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/md-sajidahmed) &nbsp; [<img src='https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-sajidahmed/) &nbsp; [<img src='https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png' alt='facebook' height='40'>](https://www.facebook.com/sajid.ahmed.7796420)   -->
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-sajidahmed)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/md-sajidahmed) 
