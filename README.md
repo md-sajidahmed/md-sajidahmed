@@ -36,8 +36,6 @@ Front-End Web Developer with WordPress customization. My passion is to learn new
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-sajidahmed)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-
 ![Profile views](https://gpvc.arturio.dev/md-sajidahmed) 
 
 <h3 align="left">Connect with me</h3>
