@@ -25,12 +25,4 @@ Skills:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-sajidahmed)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=md-sajidahmed&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=md-sajidahmed)  
-
-![GitHub metrics](https://metrics.lecoq.io/md-sajidahmed)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=md-sajidahmed)  
-
 ![Profile views](https://gpvc.arturio.dev/md-sajidahmed)  
