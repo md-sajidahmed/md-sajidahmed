@@ -5,6 +5,8 @@
 
 Front-End Web Developer with WordPress customization. My passion is to learn new things, solve problems to make myself more skilled. I always love to face new Challenges.
 
+<br />
+
 Skills: 
 
 👉  HTML / CSS / Bootstrap
@@ -20,8 +22,11 @@ Skills:
 - 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate on Github 
 
+<br />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-sajidahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-sajidahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sajid.ahmed.7796420)  
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-sajidahmed)](https://github.com/anuraghazra/github-readme-stats)
 
