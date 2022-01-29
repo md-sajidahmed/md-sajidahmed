@@ -15,10 +15,9 @@ Front-End Web Developer with WordPress customization. My passion is to learn new
 
 👉  Webpack Bundler
 
-<br />
 
-- 🌱 I’m currently learning React JS 
-- 👯 I’m looking to collaborate on Github 
+#### - 🌱 I’m currently learning React JS 
+#### - 👯 I’m looking to collaborate on Github 
 
 <br />
 
