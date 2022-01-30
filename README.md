@@ -1,4 +1,4 @@
-![Front-End Web Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/272872480_2140385446112823_6014414508037528304_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFm5cEvidLM6wFNEer6bumGRgoA1-z5B0FGCgDX7PkHQTXSegzWQXEpD_B7M6IiTc4qtNMcv4h6RdY9oeEHvqhl&_nc_ohc=d0RFn-LY8lwAX8N3H9U&_nc_ht=scontent.fdac24-2.fna&oh=00_AT_2Ywyf3Amrkozx3Mc-N7p7J7bDux-prE3KymPdzHQ1_w&oe=61F932E7)
+![Github Banner](https://github.com/Md-sajidahmed/md-sajidahmed/blob/main/img/Md. Sajid Ahmed.png)
 
 ## Hi, I am Md. Sajid Ahmed 👋
 ### Front-End Web Developer
