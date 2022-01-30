@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Md-sajidahmed/md-sajidahmed/main/img/Md. Sajid Ahmed.png)
+![Github Banner](https://github.com/md-sajidahmed/md-sajidahmed/main/img/Md. Sajid Ahmed.png)
 
 ## Hi, I am Md. Sajid Ahmed 👋
 ### Front-End Web Developer
