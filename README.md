@@ -5,7 +5,7 @@
 
 Front-End Web Developer with WordPress customization. My passion is to learn new things, solve problems to make myself more skilled. I always love to face new Challenges.
 
-<h3 align="left">Skills</h3>
+<h3 align="left">Skills :</h3>
 <p align="left"> 
 
 👉 &nbsp; HTML, CSS, Bootstrap
