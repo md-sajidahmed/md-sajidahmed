@@ -3,8 +3,10 @@
 ## Hi, I am Md. Sajid Ahmed 👋
 ### Front-End Web Developer
 
-#### Front-End Web Developer with WordPress customization. My passion is to learn new things, solve problems to make myself more skilled. I always love to face new Challenges.
-
+<p align="left">
+  Front-End Web Developer with WordPress customization. My passion is to learn new things, solve problems to make myself more skilled. I always love to face new Challenges.
+</p> 
+  
 <h3 align="left">Skills :</h3>
 <p align="left"> 
 
