@@ -12,9 +12,13 @@
 
 👉 &nbsp; HTML, CSS, Bootstrap
 
-👉 &nbsp; JavaScript, DOM, ReactJs, jQuery  
+👉 &nbsp; JavaScript, ReactJs, jQuery
+  
+👉 &nbsp; DOM (Document Object Model)
 
 👉 &nbsp; WordPress Customization
+  
+👉 &nbsp; Babel (JavaScript transcompiler)
   
 👉 &nbsp; Webpack (JavaScript module bundler)
   
