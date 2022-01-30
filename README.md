@@ -9,15 +9,15 @@
   
 <h3 align="left">Skills :</h3>
 <p align="left">
-👉 &nbsp; HTML,  CSS,  Bootstrap
+👉 &nbsp; HTML,  &nbsp; CSS,  &nbsp; Bootstrap
 
-👉 &nbsp; JavaScript,  ReactJs,  jQuery
+👉 &nbsp; JavaScript,  &nbsp; ReactJs,  &nbsp; jQuery
   
-👉 &nbsp; DOM  ( Document Object Model )
+👉 &nbsp; DOM  &nbsp; (Document Object Model)
   
-👉 &nbsp; Babel  ( JavaScript transcompiler )
+👉 &nbsp; Babel  &nbsp; (JavaScript transcompiler)
   
-👉 &nbsp; Webpack  ( JavaScript module bundler )
+👉 &nbsp; Webpack  &nbsp; (JavaScript module bundler)
   
 👉 &nbsp; WordPress Customization
 </p>  
