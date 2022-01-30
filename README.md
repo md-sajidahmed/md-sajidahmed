@@ -17,7 +17,7 @@
   
 👉 &nbsp; Babel  &nbsp; (JavaScript transcompiler)
   
-👉 &nbsp; Webpack  &nbsp; (JavaScript module bundler)
+👉 &nbsp; Webpack  (JavaScript module bundler)
   
 👉 &nbsp; WordPress Customization
 </p>  
