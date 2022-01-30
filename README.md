@@ -5,15 +5,25 @@
 
 Front-End Web Developer with WordPress customization. My passion is to learn new things, solve problems to make myself more skilled. I always love to face new Challenges.
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Skills</h3>
 <p align="left"> 
-👉 &nbsp; HTML / CSS / Bootstrap
 
-👉 &nbsp; JavaScript / DOM / ReactJs / jQuery  
+👉 &nbsp; HTML, CSS, Bootstrap
+
+👉 &nbsp; JavaScript, DOM, ReactJs, jQuery  
 
 👉 &nbsp; WordPress Customization
   
+👉 &nbsp; Webpack (JavaScript module bundler)
   
+</p>  
+
+<br>
+
+
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 <!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  &nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  &nbsp;
@@ -22,7 +32,8 @@ Front-End Web Developer with WordPress customization. My passion is to learn new
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" alt="jQuery" width="40" height="40"/> </a>  &nbsp;
 <a href="https://www.w3schools.com/js/js_htmldom.asp" target="_blank" rel="noreferrer"> <img src="https://a.ilovecoding.org/thumb/dom.png" alt="dom" width="40" height="40"/> </a>  &nbsp;
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="jQuery" width="40" height="40"/> </a> -->
-</p>
+
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 <!-- <h3 align="left">Tools</h3>
 <p align="left">
@@ -32,7 +43,10 @@ Front-End Web Developer with WordPress customization. My passion is to learn new
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p> -->
 
-<br>
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-sajidahmed)](https://github.com/anuraghazra/github-readme-stats)
 
